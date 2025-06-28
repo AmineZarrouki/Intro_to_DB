@@ -1,7 +1,7 @@
 -- Script to insert multiple customer records
 -- Database name is passed as argument to mysql command
 
-INSERT INTO Customers (
+INSERT INTO customers (
     customer_id,
     customer_name,
     email,
